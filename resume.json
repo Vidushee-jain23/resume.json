@@ -1,0 +1,67 @@
+{
+	"basics": {
+		"name": "Vidushee Jain",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/77531786?s=400&u=e393555cd2acfb8559b47cbd5554396df41ed4c5&v=4",
+		"email": "2020kucp1014@iiitkota.ac.in",
+		"phone": "8107352305",
+		"summary": "I'm a student of Indian Institute of Information Technology Kota (India), pursuing my B.tech in Computer Science & Engineering. I have enthusiasm in Web Development & UI.",
+		"location": {
+			"address": "12,Tulsi Nagar, Anand Vihar Road No.1, Tekri Road",
+			"postalCode": "313001",
+			"city": "Udaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Vidushee-jain23",
+				"url": "https://github.com/Vidushee-jain23"
+			},
+			{
+				"network": "linkedin",
+				"username": "vidushee-jain",
+				"url": "https://www.linkedin.com/in/vidushee-jain-855a9b1bb"
+			},
+			{
+				"network": "Instagram",
+				"username": "j_vidushi18",
+				"url": "https://www.instagram.com/j_vidushi18/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information Technology Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02",
+		"endDate": "----",
+		"gpa": "8.50",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [
+		{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "C"]
+	    },
+		{
+			"level": "Intermediate",
+			"keywords": ["Javascript", "PHP"]
+		}
+
+     ],
+	
+     "interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton"]
+	},
+	{
+		"name": "Art",
+		"keywords": ["Painting"]
+	}],
+	"references": []
+}
