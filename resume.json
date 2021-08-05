@@ -4,11 +4,10 @@
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/77531786?s=400&u=e393555cd2acfb8559b47cbd5554396df41ed4c5&v=4",
 		"email": "2020kucp1014@iiitkota.ac.in",
-		"phone": "",
 		"summary": "I'm a student of Indian Institute of Information Technology Kota (India), pursuing my B.tech in Computer Science & Engineering. I have enthusiasm in Web Development & UI.",
 		"location": {
-			"address": "Udaipur",
 			"postalCode": "313001",
+			"city": "Udaipur",
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
