@@ -43,13 +43,9 @@
 	"skills": [
 		{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "C"]
+		"keywords": ["C", "HTML", "CSS","Javascript","Python","Django","MySQL"]
 	    },
-		{
-			"level": "Intermediate",
-			"keywords": ["Javascript", "PHP"]
-		}
-
+		
      ],
 	
      "interests": [{
